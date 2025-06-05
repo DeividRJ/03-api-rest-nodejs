@@ -56,4 +56,12 @@ Sistemas locais que precisam de armazenamento simples.
 
 // O Knex.js - é um query builder para Node.js que permite interagir com bancos de dados (como SQLite, PostgreSQL, MySQL) usando JavaScript em vez de SQL puro. Ele simplifica a construção de consultas, migrations e seeds, tornando o desenvolvimento mais rápido e legível.
 
+
+* Migrations
+
 // Migrations - controle de versão dentro do código, um histórico de todas as mudanças que foram feitas dentro de um banco de dados.
+
+// Dentro do arquivo migrations tem as opções UP e DOWN que servem tanto pra subir o código como derrubar ou voltar ao código anterior.
+
+
+
