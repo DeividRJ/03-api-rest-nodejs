@@ -68,3 +68,10 @@ Sistemas locais que precisam de armazenamento simples.
 
 // como realizar queries simples de inserção e busca de dados.
 
+* Variáveis ambiente
+
+// Sabe quando você precisa utilizar um diferente valor quando está em desenvolvimento e quando está em produção? Bom, é exatamente para isso que servem as variáveis ambiente
+
+* Zod
+
+// com essa biblioteca é possível garantir que as variáveis ambeintes estão preenchidas e com valores corretos, é possível tratar e validar as váriaveis ambiente dos projetos.
