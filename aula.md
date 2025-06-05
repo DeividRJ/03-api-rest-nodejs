@@ -64,4 +64,7 @@ Sistemas locais que precisam de armazenamento simples.
 // Dentro do arquivo migrations tem as opções UP e DOWN que servem tanto pra subir o código como derrubar ou voltar ao código anterior.
 
 
+* Realizando queries com Knex
+
+// como realizar queries simples de inserção e busca de dados.
 
