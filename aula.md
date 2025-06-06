@@ -102,3 +102,5 @@ Sistemas locais que precisam de armazenamento simples.
 // criação de transações e validação de dados da requisição (request.body) com o zod para garantir que as informações recebidas sejam válidas e após isso, fazer de fato a inserção no banco de dados.
 
 //  Tipagem no Knex - intengrar o knex ao typescript para ter suporte ao autocomplete de tabelas e tipagem de dados corretos.
+
+// Listagem das transações - implementação de uma rota pra listar todas as transações e uma específica para receber o id para uma transação única.
