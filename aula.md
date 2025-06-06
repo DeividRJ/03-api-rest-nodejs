@@ -106,3 +106,5 @@ Sistemas locais que precisam de armazenamento simples.
 // Listagem das transações - implementação de uma rota pra listar todas as transações e uma específica para receber o id para uma transação única.
 
 // Resumo de transações - criação de uma rota para calcular(somar) as transações e retornar o total.
+
+// Utilizando cookies no Fastify - identificação do usuário que está utilizando a aplicação ao ler e escrever informações em cookies utilizando o fastify.
