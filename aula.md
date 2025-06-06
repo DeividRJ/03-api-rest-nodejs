@@ -94,7 +94,11 @@ Sistemas locais que precisam de armazenamento simples.
 
 * Plugins do fastify
 
-- Plugins podem ser usados para adicionar funcionalidades como autenticação, log, validação de dados, gerenciamentos de erros entre outras, sempre lembrar que ao usar um plugin do fastify em uma function é necessário que adicione o Async na function.
+// Plugins podem ser usados para adicionar funcionalidades como autenticação, log, validação de dados, gerenciamentos de erros entre outras, sempre lembrar que ao usar um plugin do fastify em uma function é necessário que adicione o Async na function.
 
 
-* Implementação de rotas - criação de transações e validação de dados da requisição (request.body) com o zod para garantir que as informações recebidas sejam válidas e após isso, fazer de fato a inserção no banco de dados.
+* Implementação de rotas 
+
+// criação de transações e validação de dados da requisição (request.body) com o zod para garantir que as informações recebidas sejam válidas e após isso, fazer de fato a inserção no banco de dados.
+
+//  Tipagem no Knex - intengrar o knex ao typescript para ter suporte ao autocomplete de tabelas e tipagem de dados corretos.
