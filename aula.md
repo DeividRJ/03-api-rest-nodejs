@@ -110,3 +110,5 @@ Sistemas locais que precisam de armazenamento simples.
 // Utilizando cookies no Fastify - identificação do usuário que está utilizando a aplicação ao ler e escrever informações em cookies utilizando o fastify.
 
 // Validando existência do cookie - validação do coockie do sessionId para identificar o usuário da aplicação, a busca será realizada uma função como preHandler(middleware).
+
+// Configurando um hook global - como registrar hooks globais no fastify e em quais rotas eles vão impactar.
