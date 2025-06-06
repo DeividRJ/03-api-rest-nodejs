@@ -108,3 +108,5 @@ Sistemas locais que precisam de armazenamento simples.
 // Resumo de transações - criação de uma rota para calcular(somar) as transações e retornar o total.
 
 // Utilizando cookies no Fastify - identificação do usuário que está utilizando a aplicação ao ler e escrever informações em cookies utilizando o fastify.
+
+// Validando existência do cookie - validação do coockie do sessionId para identificar o usuário da aplicação, a busca será realizada uma função como preHandler(middleware).
