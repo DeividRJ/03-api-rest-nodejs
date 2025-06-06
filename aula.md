@@ -104,3 +104,5 @@ Sistemas locais que precisam de armazenamento simples.
 //  Tipagem no Knex - intengrar o knex ao typescript para ter suporte ao autocomplete de tabelas e tipagem de dados corretos.
 
 // Listagem das transações - implementação de uma rota pra listar todas as transações e uma específica para receber o id para uma transação única.
+
+// Resumo de transações - criação de uma rota para calcular(somar) as transações e retornar o total.
