@@ -112,3 +112,12 @@ Sistemas locais que precisam de armazenamento simples.
 // Validando existência do cookie - validação do coockie do sessionId para identificar o usuário da aplicação, a busca será realizada uma função como preHandler(middleware).
 
 // Configurando um hook global - como registrar hooks globais no fastify e em quais rotas eles vão impactar.
+
+
+* Testes automatizados
+
+// Unitários: unidade da sua aplicação
+
+// Integração: comunicação entre duas ou mais unidades
+
+// e2e - ponta a ponta : simulam um usuário operando na nossa aplicação
