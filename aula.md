@@ -153,3 +153,5 @@ Também é explicado sobre o uso da função it para criar cada teste, descreven
 É ensinado como recuperar o cookie de uma resposta do supertest e utilizá-lo em outra requisição do supertest, além de validar o corpo da listagem usando as funções expect.toEqual e expect.objectContaining.
 
 // Configurando banco de testes - Nesta aula, você aprenderá como se deve lidar com o banco de dados durante os testes e2e e como configurar esse processo, utilizando variáveis ambiente de testes e a função beforeEach, lembrando que é sempre bom rodar testes separadamente limpando o banco de dados para que não ocorra erros de conflitos entre eles.
+
+// Finalizando testes da aplicação - Nessa aula, implementaremos os testes das rotas restantes e concluindo os testes de todas as rotas.
