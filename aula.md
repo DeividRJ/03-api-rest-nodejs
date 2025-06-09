@@ -121,3 +121,5 @@ Sistemas locais que precisam de armazenamento simples.
 // Integração: comunicação entre duas ou mais unidades
 
 // e2e - ponta a ponta : simulam um usuário operando na nossa aplicação
+
+// Criando primeiro teste - como criar o primeiro arquivo de testes usando o vitest, uso da ferramenta, instalação e execução do primeiro teste.
